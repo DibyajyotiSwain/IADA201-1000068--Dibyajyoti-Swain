@@ -126,6 +126,7 @@ https://public.tableau.com/app/profile/dibyajyoti.swain6968/viz/IPL_Match_Winnin
 <img width="1594" height="808" alt="Screenshot 2026-02-15 121450" src="https://github.com/user-attachments/assets/8932cd56-89e3-4705-aecd-91a947ca1b0f" />
 <img width="1094" height="544" alt="Screenshot 2026-02-15 121423" src="https://github.com/user-attachments/assets/dc3e48e3-a887-4129-9943-1608cf0d5f99" />
 <img width="1087" height="497" alt="Screenshot 2026-02-15 121358" src="https://github.com/user-attachments/assets/e707e0d4-2582-4821-ac87-8f4c608890d5" />
+<img width="1088" height="749" alt="Screenshot 2026-02-15 121344" src="https://github.com/user-attachments/assets/fe135180-dd83-42fe-90dd-702779dcdfa7" />
 <img width="1345" height="762" alt="Screenshot 2026-02-15 121329" src="https://github.com/user-attachments/assets/1cd5222e-c6e7-43dd-b837-af8a823a629d" />
 <img width="1344" height="766" alt="Screenshot 2026-02-15 121315" src="https://github.com/user-attachments/assets/ca174faf-fed6-4fb9-beba-f4b435dd2f56" />
 
